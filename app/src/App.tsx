@@ -1,10 +1,10 @@
-import React from 'react';
+import { Container } from 'reactstrap';
 
 function App() {
   return (
-    <div>
+    <Container>
       <h2>Hello to the App</h2>
-    </div>
+    </Container>
   );
 }
 
